@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Roboto+Mono&duration=6000&pause=5000&color=FFD800&width=500&lines=%F0%9F%91%BE%F0%9F%9A%80%F0%9F%95%B9%EF%B8%8F%F0%9F%8E%AE%F0%9F%A4%96%F0%9F%91%BD%F0%9F%93%BA%F0%9F%91%BD%F0%9F%A4%96%F0%9F%8E%AE%F0%9F%95%B9%EF%B8%8F%F0%9F%9A%80%F0%9F%91%BE)](https://git.io/typing-svg)
 
-Empecé mi trayectoria profesional como Gestora Cultural hace más de 14 años. La llegada de la pandemia me llevo a volcar mi trabajo al mundo virtual. Durante estos últimos 2 años he trabajado como productora técnica de proyectos culturales que tuvieron que adaptarse a diversas plataformas y aplicaciones web.
+Inicié mi carrera como DevOps Engineer, impulsando prácticas ágiles y colaboración entre equipos para entregas continuas. He sido lider en gestión proyectos de infraestructura, como actualizaciones de ALM Octane y otras herramientas DevOps.
 
-Actualmente estudio y busco ampliar mi campo laboral en el mundo del desarrollo web.
+Estoy explorando tecnologías en la nube, desarrollo backend y construcción de infraestructuras serverless para especializarme aún más en estos campos.
 
 
 ## 📊 Estadísticas
