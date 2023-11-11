@@ -3,8 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Roboto+Mono&duration=6000&pause=5000&color=FFD800&width=500&lines=%F0%9F%91%BE%F0%9F%9A%80%F0%9F%95%B9%EF%B8%8F%F0%9F%8E%AE%F0%9F%A4%96%F0%9F%91%BD%F0%9F%93%BA%F0%9F%91%BD%F0%9F%A4%96%F0%9F%8E%AE%F0%9F%95%B9%EF%B8%8F%F0%9F%9A%80%F0%9F%91%BE)](https://git.io/typing-svg)
 
 Inicié mi carrera como DevOps Engineer, impulsando prácticas ágiles y colaboración entre equipos para entregas continuas. He sido lider en gestión proyectos de infraestructura, como actualizaciones de ALM Octane y otras herramientas DevOps.
+(I started my career as a DevOps Engineer, promoting agile practices and collaboration among teams for continuous deliveries. I have been a leader in managing infrastructure projects, such as ALM Octane updates and other DevOps tools.)
 
 Estoy explorando tecnologías en la nube, desarrollo backend y construcción de infraestructuras serverless para especializarme aún más en estos campos.
+(I am exploring cloud technologies, backend development, and the construction of serverless infrastructures to further specialize in these fields.)
 
 
 ## 📊 Estadísticas
