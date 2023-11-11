@@ -1,6 +1,6 @@
 ### Hola! Soy Jurgen Zellhuber <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Roboto+Mono&duration=6000&pause=5000&color=FFD800&width=500&lines=👾🚀🕹️🎮🤖👽📺👽🤖🎮🕹️🚀👾" alt="Typing SVG")](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Roboto+Mono&duration=6000&pause=5000&color=FFD800&width=500&lines=%F0%9F%91%BE%F0%9F%9A%80%F0%9F%95%B9%EF%B8%8F%F0%9F%8E%AE%F0%9F%A4%96%F0%9F%91%BD%F0%9F%93%BA%F0%9F%91%BD%F0%9F%A4%96%F0%9F%8E%AE%F0%9F%95%B9%EF%B8%8F%F0%9F%9A%80%F0%9F%91%BE)](https://git.io/typing-svg)
 
 Empecé mi trayectoria profesional como Gestora Cultural hace más de 14 años. La llegada de la pandemia me llevo a volcar mi trabajo al mundo virtual. Durante estos últimos 2 años he trabajado como productora técnica de proyectos culturales que tuvieron que adaptarse a diversas plataformas y aplicaciones web.
 
