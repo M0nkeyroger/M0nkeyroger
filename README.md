@@ -17,7 +17,7 @@ Estoy explorando tecnologías en la nube, desarrollo backend y construcción de 
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M0nkeyroger&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M0nkeyroger&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M0nkeyroger&layout=compact&theme=tokyonight)]
 
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
